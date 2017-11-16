@@ -1,0 +1,11 @@
+data/*
+graph/*
+result/*
+
+VGG_ILSVRC_19_layers.caffemodel
+__pycache__
+*.h5
+*.pkl
+
+lgfilter/*
+
